@@ -4,6 +4,9 @@
 
 To install and run the Create AI project allowing switching between multiple large language models, including OpenAI models (GPT-3, GPT-4) and grok models (LLAMA-3, Mixtral, Google's GEMMA), and set up the frontend interface using Streamlit.
 
+### Video Walkthrough:
+https://youtu.be/bvKzy6CqpvM
+
 ### Key Steps:
 
 1. **Install Required Tools:**
